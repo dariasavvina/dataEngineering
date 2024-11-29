@@ -1,0 +1,24 @@
+{
+    "sum_reviews": 3631397256,
+    "mean_reviews": 506471.0259414226,
+    "min_reviews": 1359,
+    "max_reviews": 999855,
+    "freq_category": {
+        "Pants": 496,
+        "Shirt": 472,
+        "Umbrellas": 464,
+        "Skirt": 461,
+        "Dress": 456,
+        "Blouse": 454,
+        "Sweater": 451,
+        "Belts": 451,
+        "Hat": 450,
+        "Handbags": 449,
+        "Jacket": 438,
+        "T-shirt": 435,
+        "Socks": 430,
+        "Shoes": 429,
+        "Jeans": 424,
+        "Gloves": 410
+    }
+}
