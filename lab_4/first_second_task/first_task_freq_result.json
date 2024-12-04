@@ -1,0 +1,14 @@
+[
+    {
+        "system":"circular",
+        "cnt":24
+    },
+    {
+        "system":"Swiss",
+        "cnt":22
+    },
+    {
+        "system":"Olympic",
+        "cnt":20
+    }
+]

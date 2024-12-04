@@ -1,0 +1,30 @@
+[
+    {
+        "sum_quantity":39408,
+        "min_quantity":198,
+        "max_quantity":2380,
+        "avg_quantity":772.7058823529,
+        "category":"cosmetics"
+    },
+    {
+        "sum_quantity":42450,
+        "min_quantity":137,
+        "max_quantity":1497,
+        "avg_quantity":744.7368421053,
+        "category":"tools"
+    },
+    {
+        "sum_quantity":26437,
+        "min_quantity":55,
+        "max_quantity":1493,
+        "avg_quantity":629.4523809524,
+        "category":"fruit"
+    },
+    {
+        "sum_quantity":3398,
+        "min_quantity":1,
+        "max_quantity":114,
+        "avg_quantity":54.8064516129,
+        "category":null
+    }
+]
