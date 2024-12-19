@@ -1,0 +1,2 @@
+Ссылка на датасет - https://www.kaggle.com/datasets/ankurnapa/brewery-operations-and-market-analysis-dataset
+ссылка на оптимизированный csv - https://drive.google.com/file/d/1cPfVznEiPt0dGQKfveUy9U_xZiQidrex/view?usp=sharing

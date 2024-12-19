@@ -1,0 +1,122 @@
+[
+    {
+        "name_col": "Batch_ID",
+        "col_mem": 80000000,
+        "share": 0.02290462050342807,
+        "type_col": "int32"
+    },
+    {
+        "name_col": "Fermentation_Time",
+        "col_mem": 80000000,
+        "share": 0.02290462050342807,
+        "type_col": "int8"
+    },
+    {
+        "name_col": "Temperature",
+        "col_mem": 80000000,
+        "share": 0.02290462050342807,
+        "type_col": "float32"
+    },
+    {
+        "name_col": "pH_Level",
+        "col_mem": 80000000,
+        "share": 0.02290462050342807,
+        "type_col": "float32"
+    },
+    {
+        "name_col": "Gravity",
+        "col_mem": 80000000,
+        "share": 0.02290462050342807,
+        "type_col": "float32"
+    },
+    {
+        "name_col": "Alcohol_Content",
+        "col_mem": 80000000,
+        "share": 0.02290462050342807,
+        "type_col": "float32"
+    },
+    {
+        "name_col": "Bitterness",
+        "col_mem": 80000000,
+        "share": 0.02290462050342807,
+        "type_col": "int8"
+    },
+    {
+        "name_col": "Color",
+        "col_mem": 80000000,
+        "share": 0.02290462050342807,
+        "type_col": "int8"
+    },
+    {
+        "name_col": "Volume_Produced",
+        "col_mem": 80000000,
+        "share": 0.02290462050342807,
+        "type_col": "int16"
+    },
+    {
+        "name_col": "Total_Sales",
+        "col_mem": 80000000,
+        "share": 0.02290462050342807,
+        "type_col": "float64"
+    },
+    {
+        "name_col": "Quality_Score",
+        "col_mem": 80000000,
+        "share": 0.02290462050342807,
+        "type_col": "float32"
+    },
+    {
+        "name_col": "Brewhouse_Efficiency",
+        "col_mem": 80000000,
+        "share": 0.02290462050342807,
+        "type_col": "float32"
+    },
+    {
+        "name_col": "Loss_During_Brewing",
+        "col_mem": 80000000,
+        "share": 0.02290462050342807,
+        "type_col": "float32"
+    },
+    {
+        "name_col": "Loss_During_Fermentation",
+        "col_mem": 80000000,
+        "share": 0.02290462050342807,
+        "type_col": "float32"
+    },
+    {
+        "name_col": "Loss_During_Bottling_Kegging",
+        "col_mem": 80000000,
+        "share": 0.02290462050342807,
+        "type_col": "float32"
+    },
+    {
+        "name_col": "SKU",
+        "col_mem": 540005664,
+        "share": 0.1546078100452711,
+        "type_col": "object"
+    },
+    {
+        "name_col": "Beer_Style",
+        "col_mem": 543743223,
+        "share": 0.15567790217657326,
+        "type_col": "object"
+    },
+    {
+        "name_col": "Location",
+        "col_mem": 598996168,
+        "share": 0.17149724888809556,
+        "type_col": "object"
+    },
+    {
+        "name_col": "Ingredient_Ratio",
+        "col_mem": 600000000,
+        "share": 0.17178465377571053,
+        "type_col": "object"
+    },
+    {
+        "name_col": "Brew_Date",
+        "col_mem": 680000000,
+        "share": 0.1946892742791386,
+        "type_col": "object"
+    }
+]
